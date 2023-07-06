@@ -1,0 +1,5 @@
+License
+This compilation is licensed under a Creative Commons Attribution 3.0 Unported License.
+
+Data Source: Google Books (https://storage.googleapis.com/books/ngrams/books/datasetsv3.html)
+https://www.kaggle.com/datasets/wheelercode/dictionary-word-frequency
